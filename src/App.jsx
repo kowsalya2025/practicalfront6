@@ -68,8 +68,8 @@ function App() {
       <div className="w-full">
         {/* Header */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-gray-800 mb-2">Image Carousel</h1>
-          <p className="text-gray-600">Auto-playing carousel with hover controls</p>
+          <h1 className="text-4xl font-bold text-white-800 mb-2">Image Carousel</h1>
+          <p className="text-white-600">Auto-playing carousel with hover controls</p>
         </div>
 
         {/* Carousel Container */}
